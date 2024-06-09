@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak675-max&label=Profile%20views&color=0e75b6&style=flat" alt="deepak675-max" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Nodejs, javascript, data structure, algorithm**
+- 💬 Ask me about **Java, OOP, Nodejs, javascript, data structure, algorithm**
 
 - 📫 How to reach me **deepakkamboj6656@gmail.com**
 
