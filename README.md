@@ -14,7 +14,7 @@
 - 💬 Ask me about **Java, OOP, Node.js, JavaScript, Data Structures & Algorithms, AWS**
 - 📫 Reach me at **deepakkamboj6656@gmail.com**
 - 📄 View my resume  
-  👉 <a href="https://drive.google.com/file/d/1km31PEqNRDNZwJXo0_j4EcXk-Zrhju6q/view?usp=share_link" target="_blank">Resume</a>
+  👉 <a href="https://drive.google.com/file/d/1Tfgfa6OJTV6804Atnb01U4QN6YlY9e_U/view?usp=drive_link" target="_blank">Resume</a>
 - ⚡ Fun fact: **I enjoy solving problems and making people smile 😄**
 
 ---
